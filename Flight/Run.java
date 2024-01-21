@@ -1,3 +1,4 @@
+package Flight;
 
 //Taking the name,source and destination from user and displaying the message
 import java.util.*;
